@@ -8,18 +8,6 @@
   
   <h4 align="center">Demo: <a href="https://next-e-commerce-example.vercel.app/">https://next-e-commerce-example.vercel.app/</a></h4>
 
-  <p align="center">
-    An e-commerce website example built with Next.js that I made in 1 week as a self challenge. There are some issues that I will handle later. Using Firebase as backend.
-    <br />
-    <br />
-    <a href="https://twitter.com/anilsenay">Contact me</a>
-    ·
-    <a href="https://github.com/anilsenay/next-e-commerce/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/anilsenay/next-e-commerce/issues">Request Feature</a>
-  </p>
-</p>
-
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
@@ -102,7 +90,7 @@ I saw a UI design on Dribbble by [Anton Mikhaltsov](https://dribbble.com/shots/9
 2. Clone the repo and change the directory
 
 ```sh
-git clone https://github.com/anilsenay/next-e-commerce.git
+git clone https://github.com/whitebird1016/Next.js-e-commerce
 cd next-e-commerce
 ```
 
@@ -173,10 +161,4 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the GPL License. See `LICENSE` for more information.
 
-<!-- CONTACT -->
-
-## Contact
-
-[@anilsenay](https://twitter.com/anilsenay)
-
-Project Link: [https://github.com/anilsenay/next-e-commerce](https://github.com/anilsenay/next-e-commerce)
+Project Link: [https://github.com/whitebird1016/Next.js-e-commerce](https://github.com/whitebird1016/Next.js-e-commercee)
